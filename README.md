@@ -95,3 +95,7 @@ function spoiler(text: string): Promise<string>;
 Returns
 > Text before: Japan </br>
 > Transformed: ||J||||a||||p||||a||||n||
+
+I hope you have enjoyed everything (´｡• ᵕ •｡`) ♡
+
+> Github: [@cramatsu](https://github.com/cramatsu)
