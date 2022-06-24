@@ -1,0 +1,24 @@
+
+# The heaviest object in our universe
+node_modules
+**/node_modules
+
+# Logs
+*.ds.ts
+*.log
+logs
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Trash & IDEs & OS Files
+.tmp/
+.env
+.idea
+.DS_STORE
+.vscode
+dist/
+lib/
+tsconfig.tsbuildinfo
