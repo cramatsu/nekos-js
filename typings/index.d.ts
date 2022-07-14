@@ -72,5 +72,5 @@ export namespace NekosReponses {
 		why: string;
 	}
 
-	export interface SpoilerResponse extends OwoifyResponse { }
+	export interface SpoilerResponse extends OwoifyResponse {}
 }

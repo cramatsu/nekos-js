@@ -27,7 +27,7 @@ export const randomName = async (): Promise<string> =>
 	(await axios.get<NameResponse>(`${baseUrl}/${Endpoints.Name}`)).data.name;
 
 /**
- * @param text Max length 200
+ * @param text Max length is 200
  **/
 export const owoify = async (text: string): Promise<string> =>
 	(
