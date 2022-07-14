@@ -1,6 +1,6 @@
 {
 	"name": "nekos-js",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"license": "MIT",
 	"main": "./lib/index.js",
 	"author": "cramatsu <icramatsu@icloud.com> (https://linktr.ee/cramatsu)",

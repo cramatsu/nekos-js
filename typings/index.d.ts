@@ -34,7 +34,7 @@ export enum ImageCategory {
 	NekoGif = 'ngif',
 }
 
-export function eightBall(): Promise<NekosReponses.EightballResponse>;
+export function eightBall(): Promise<NekosResponses.EightballResponse>;
 export function cat(): Promise<string>;
 export function fact(): Promise<string>;
 export function image(): Promise<string>;
@@ -43,7 +43,7 @@ export function owoify(text: string): Promise<string>;
 export function why(): Promise<string>;
 export function spoiler(text: string): Promise<string>;
 
-export namespace NekosReponses {
+export namespace NekosResponses {
 	export interface EightballResponse {
 		response: string;
 		url: string;

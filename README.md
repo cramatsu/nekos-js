@@ -18,7 +18,7 @@
 ### eightBall
 
 ```ts
-function eightBall(): Promise<NekosReponses.EightballResponse>;
+function eightBall(): Promise<NekosResponses.EightballResponse>;
 ```
 
 Returns
