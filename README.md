@@ -1,5 +1,8 @@
 # Nekos-js
 
+Ну и хуета, как я мог такое выпустит в prod?
+Даже удалять не буду: в будущем буду рофлить с говноcode
+
 **A simple [nekos.life](https://nekos.life) API wrapper**
 
 # Documentation
